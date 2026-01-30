@@ -2,7 +2,7 @@
 
 A clean and lightweight resume template built using plain HTML5.
 
-## 📖 Description
+## Description
 
 This project demonstrates the structure of a professional resume using core HTML elements. It focuses on semantic structure (`<h1>`, `<h2>`, `<ul>`) and traditional layout techniques (`<table>`) to organize experience and education data efficiently.
 
@@ -11,7 +11,7 @@ This project demonstrates the structure of a professional resume using core HTML
 * **Semantic HTML:** Optimized for screen readers and basic SEO.
 * **Easy Customization:** Simple to edit and update with your own information.
 
-## 🔗 Live Demos
+## Live Demos
 
 You can view and edit the live version of this resume on the following platforms:
 <img width="857" height="1000" alt="image" src="https://github.com/user-attachments/assets/f0dea03d-072c-4f24-a96d-6a00fecee5c1" />
@@ -19,7 +19,7 @@ You can view and edit the live version of this resume on the following platforms
 * **CodePen:** [View on CodePen](https://codepen.io/Divyanshu-the-vuer/pen/YPWeejv)
 * **OneCompiler:** [View on OneCompiler](https://onecompiler.com/html/44c53grxr)
 
-## 🚀 Getting Started
+## Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine.
 
