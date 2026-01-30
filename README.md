@@ -14,6 +14,7 @@ This project demonstrates the structure of a professional resume using core HTML
 ## 🔗 Live Demos
 
 You can view and edit the live version of this resume on the following platforms:
+<img width="857" height="1000" alt="image" src="https://github.com/user-attachments/assets/f0dea03d-072c-4f24-a96d-6a00fecee5c1" />
 
 * **CodePen:** [View on CodePen](https://codepen.io/Divyanshu-the-vuer/pen/YPWeejv)
 * **OneCompiler:** [View on OneCompiler](https://onecompiler.com/html/44c53grxr)
